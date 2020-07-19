@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px){
+    .banner, .lightbox, .idea{
+        height: 50vh;
+    }
+
+    .banner{
+        .img-overlay{
+            min-height: 50vh;
+        }
+        .banner-text{
+            h2{
+                font-size: 2.5em;
+            }
+        }
+    }
+
+    .idea{
+        .img-overlay{
+            min-height: 50vh;
+        }
+    }
+}
